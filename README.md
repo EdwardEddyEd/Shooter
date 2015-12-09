@@ -43,6 +43,4 @@ The remaining .wav sound files were Freeware from http://www.flashkit.com/soundf
 
 Fonts
 .ttf files  100% Free from http://www.dafont.com/theme.php?cat=301
-=======
 
-Fonts were 100% Free
